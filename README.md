@@ -1,37 +1,65 @@
-# Adam Blog is a minimal clear theme for Jekyll
+# [Lone Wolf Theme Jekyll][1]
 
-![Adam Blog - Imac](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-blog-imac.jpg?raw=true)
+[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/manid2/lone-wolf-theme/blob/master/LICENSE)
+[![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.8-blue.svg)][jekyll]
+[![Ruby gem](https://badge.fury.io/rb/lone-wolf-theme.svg)](https://rubygems.org/gems/lone-wolf-theme/)
+[![Build Status](https://travis-ci.com/manid2/lone-wolf-theme.svg?branch=master)](https://travis-ci.com/manid2/lone-wolf-theme)
 
-## Demo
+A simple [bootstrap][bs4] based jekyll theme.
 
-Check the theme in action [Demo](https://artemsheludko.github.io/adam-blog/)
+It uses
 
-The main page would look like this:
+- [github-pages compatible gems][gh-gems]
+- [bootswatch wrappers][bootswatch]
+- [animate.css][ani-css].
 
-![Main page preview](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-home-page.jpg?raw=true)
+## Who uses it
 
-The post page would look like this:
+- [Lone wolf theme docs][1]
+- [Me, manid2][2]
 
-![Post page preview](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-post-example.jpg?raw=true)
+## Screenshots
 
-## Features
+![Lone wolf theme screenshot][lwt_ss_all_img]
 
-- [Google Fonts](https://fonts.google.com/)
-- [Font Awesome](http://fontawesome.io/)
-- [Disqus](https://disqus.com/)
-- [MailChimp](https://mailchimp.com/)
-- [Analytics](https://analytics.google.com/analytics/web/)
-- [Search](https://github.com/christian-fei/Simple-Jekyll-Search)
+<!-- Images -->
+[lwt_ss_all_img]: lwt_screenshots/lwt_ss_all_in_one.png "Lone wolf theme screenshot"
 
-## Installation:
+## Installation
 
-Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
+### Using remote theme
 
-## License
+Easiest way to use the theme if you dont want to make changes to the theme's
+code.
 
-GNU General Public License v3.0
+- Add `remote_theme    : "manid2/lone-wolf-theme"` to your `_config.yml` file.
 
-## Donate
+### By forking the theme repository
 
-<p>If you like the themes that I create you can become my sponsor on <a href="https://www.patreon.com/artemsheludko" target="_blank">Patreon</a>.
-<p align="center"><b>Thank you for your support ❤️</b></p>
+If you want to make changes to the code and to truly own the site.
+Follow the blog on [smashing magazine][sm-gh-pages] to learn about this method.
+
+### As a ruby gem
+
+When you want to host the site on any server other than the github pages
+and also to make use of plenty of jekyll plugins.
+
+- Add `gem "lone-wolf-theme"` to your `Gemfile`.
+- Update bundled gems by using `bundle` command.
+- Add `theme    : "lone-wolf-theme"` to your `_config.yml`.
+
+## Contribution
+
+Use the link to learn how to [contribute][3] to LWT.
+
+<!-- Links in the post -->
+[jekyll]: https://jekyllrb.com/
+[bs4]: https://getbootstrap.com/
+[bootswatch]: https://bootswatch.com/
+[gh-gems]: https://pages.github.com/versions/
+[ani-css]: https://daneden.github.io/animate.css/
+[sm-gh-pages]: https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
+
+[1]: https://manid2.github.io/lone-wolf-theme/
+[2]: https://manid2.github.io/
+[3]: https://manid2.github.io/lone-wolf-theme/contribute/

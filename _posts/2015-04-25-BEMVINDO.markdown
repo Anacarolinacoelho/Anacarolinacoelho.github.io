@@ -2,7 +2,7 @@
 title:  "Bem vindo!"
 subtitle: 
 author: "Ana Carolina Coelho"
-image: "img/mae.jpg"
+image: "img/a.jpg"
 ---
 
 ### Quem sou eu?

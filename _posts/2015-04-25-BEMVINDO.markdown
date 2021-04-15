@@ -1,8 +1,8 @@
 ---
 title:  "Bem vindo!"
-subtitle: 
+subtitle: "Um pouco de mim"
 author: "Ana Carolina Coelho"
-image: "img/a.jpg"
+image: "img/eu.jpg"
 ---
 
 ### Quem sou eu?

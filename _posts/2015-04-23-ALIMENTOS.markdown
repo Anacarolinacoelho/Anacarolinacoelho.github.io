@@ -12,13 +12,13 @@ Para te ajudar a descobrir esses novos sabores, separei algumas receitas vegetar
 <div>
 
 
-### 1. Estrogonofe de carne de soja
+### 1. Estrogonofe de carne de soja <h2>
 
 
-### Ingredientes
+### Ingredientes <h3>
 
 
-<div style = "text-align: justify;">
+<div style = "text-align: justify;"> <h2>
 * 1 xícara de proteína texturizada de soja em tiras (a famosa carne de soja)
 * 1 tablete de caldo de legumes dissolvido em água
 * 1 ciaxinha de creme de leite (pode ser creme de soja ou de arroz para veganos)
@@ -43,17 +43,17 @@ Modo de Preparo
 <div>
 
 
-### 2. Salada de Penne 
+### 2. Salada de Penne <h4>
 
 
 Pensando em praticidade na hora do almoço, uma salada de penne não seria nada mal. Em 30 minutos uma salada bem cremosa e saborosa pode ser preparada para a sua refeição.
 
 
 
-### Ingredientes
+### Ingredientes <h5>
 
 
-<div style = "text-align: justify;">
+<div style = "text-align: justify;"> <h3>
 * 1 caixa de macarrão penne de Milho e Quinoa Fit Food (250g)
 * 1/2 abacate
 * 1/2 xícara de azeite de oliva extra virgem
@@ -71,16 +71,16 @@ Pensando em praticidade na hora do almoço, uma salada de penne não seria nada 
 
 
 
-### 3. Torta de alho poró, espinafre e cebola caramelizada 
+### 3. Torta de alho poró, espinafre e cebola caramelizada <h6>
 
 
 Nossa lista de receitas não poderia deixar de ter tortas na seleção. Essa torta de alho poró, espinafre e cebola caramelizada vai lhe conquistar, com certeza. 
 
 
 
-### Ingredientes
+### Ingredientes <h7>
 
-<div style = "text-align: justify;">
+<div style = "text-align: justify;"> <h4>
 * 1 1/2 xícara (chá) de grão-de-bico cozido
 * 2 colheres (sopa) de azeite de oliva extra virgem
 * 2 colheres (chá) de sal marinho ou flor-de-sal

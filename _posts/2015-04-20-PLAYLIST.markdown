@@ -1,8 +1,10 @@
 ---
 title:  "Playlist"
-subtitle:"Uma parte de mim"
+subtitle: Uma parte de mim
 image: "img/playlist.jpg"
 ---
+
+### E vamos de música, pois quem canta seus males espanta!! 
 
 <div style = "text-align: justify;">
 

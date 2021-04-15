@@ -13,13 +13,13 @@ Para te ajudar a descobrir esses novos sabores, separei algumas receitas vegetar
 <div>
 
 
-## 1. Estrogonofe de carne de soja <h2>
+# 1. Estrogonofe de carne de soja 
 
 
-## Ingredientes <h3>
+# Ingredientes 
 
 
-<div style = "text-align: justify;"> 
+ 
 * 1 xícara de proteína texturizada de soja em tiras (a famosa carne de soja)
 * 1 tablete de caldo de legumes dissolvido em água
 * 1 ciaxinha de creme de leite (pode ser creme de soja ou de arroz para veganos)
@@ -41,7 +41,7 @@ Modo de Preparo
 2. Refogue a cebola e o alho no óleo. Acrescente os temperos, o extrato de tomate e deixe cozinhar em fogo baixo até ficar homogêneo. Depois disso, junte o champignon e vá despejando a mistura de amido de milho aos poucos, mexendo sempre para engrossar. Adicione a carne de soja hidratada, mexa bem e tire do fogo para incorporar o creme de leite.
 
 * Sirva em seguida com arroz (na foto, integral) e batata frita, palha ou chips.
-<div>
+
 
 
 ## 2. Salada de Penne <h4>

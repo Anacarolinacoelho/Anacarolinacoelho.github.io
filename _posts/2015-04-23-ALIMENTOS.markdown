@@ -11,9 +11,12 @@ Ao menos uma vez na semana você já experimentou tirar a carne do prato e optar
 Para te ajudar a descobrir esses novos sabores, separei algumas receitas vegetarianas para você nem sentir falta de carne. Use e abuse de ingredientes como soja, queijo, ricota, cogumelos, cereais, e confira pratos a base de legumes, além de risotos, sopas e muito mais. Veja abaixo a lista das opções e a lista dos ingredientes necessários.
 <div>
 
+
 ### 1. Estrogonofe de carne de soja
 
+
 ### Ingredientes
+
 
 <div style = "text-align: justify;">
 * 1 xícara de proteína texturizada de soja em tiras (a famosa carne de soja)
@@ -39,12 +42,16 @@ Modo de Preparo
 * Sirva em seguida com arroz (na foto, integral) e batata frita, palha ou chips.
 <div>
 
+
 ### 2. Salada de Penne 
+
+
 Pensando em praticidade na hora do almoço, uma salada de penne não seria nada mal. Em 30 minutos uma salada bem cremosa e saborosa pode ser preparada para a sua refeição.
 
 
 
 ### Ingredientes
+
 
 <div style = "text-align: justify;">
 * 1 caixa de macarrão penne de Milho e Quinoa Fit Food (250g)
@@ -57,6 +64,7 @@ Pensando em praticidade na hora do almoço, uma salada de penne não seria nada 
 * sal Rosa com Ervas para Churrasco 
 * lembre de bate-se de bater o abacate com a água, o azeite, o suco de limão e o tempero de sal rosa com ervas e depois misturar com o penne cozido e o restante dos ingredientes.
 
+
 **hmmmmm delícia**
 
 <div>
@@ -64,6 +72,7 @@ Pensando em praticidade na hora do almoço, uma salada de penne não seria nada 
 
 
 ### 3. Torta de alho poró, espinafre e cebola caramelizada 
+
 
 Nossa lista de receitas não poderia deixar de ter tortas na seleção. Essa torta de alho poró, espinafre e cebola caramelizada vai lhe conquistar, com certeza. 
 
@@ -94,5 +103,6 @@ Modo de preparo
 4. Leve ao forno pré-aquecido a 200°C por 30 minutos. 
 
 <div>
+
 
 **Só de escrever essas receitas já me deu água na boca**

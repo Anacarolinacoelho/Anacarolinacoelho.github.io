@@ -42,6 +42,8 @@ Sirva em seguida com arroz (na foto, integral) e batata frita, palha ou chips.
 ### 2. Salada de Penne 
 Pensando em praticidade na hora do almoço, uma salada de penne não seria nada mal. Em 30 minutos uma salada bem cremosa e saborosa pode ser preparada para a sua refeição.
 
+![salada de penne](img/saladadepenne.jpg)
+
 ### Ingredientes
 
 <div style = "text-align: justify;">
@@ -64,6 +66,8 @@ Pensando em praticidade na hora do almoço, uma salada de penne não seria nada 
 ### 3. Torta de alho poró, espinafre e cebola caramelizada 
 
 Nossa lista de receitas não poderia deixar de ter tortas na seleção. Essa torta de alho poró, espinafre e cebola caramelizada vai lhe conquistar, com certeza. 
+
+![alt](img/torta.jpg)
 
 ### Ingredientes
 

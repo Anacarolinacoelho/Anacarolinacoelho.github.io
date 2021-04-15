@@ -58,7 +58,7 @@ Pensando em praticidade na hora do almoço, uma salada de penne não seria nada 
 • lembre de bate-se de bater o abacate com a água, o azeite, o suco de limão e o tempero de sal rosa com ervas e depois misturar com o penne cozido e o restante dos ingredientes.
 
 ### hmmmmm delícia
-![salada de penne](img/saladadepenne.jpg)
+
 <div>
 
 
@@ -92,7 +92,7 @@ Em um processador, bata o grão-de-bico, as duas colheres de azeite de oliva ext
 Em um bowl, misture os dois ovos, as três claras, uma xícara de espinafre picado, uma xícara de alho-poró picado, uma cebola cortada em rodelas, uma colher de flor-de-sal, duas colheres de açúcar mascavo, pimenta do reino moída e espalhe sobre a massa que já esta na forma.
 
 Leve ao forno pré-aquecido a 200°C por 30 minutos. 
-![alt](img/torta.jpg)
+
 <div>
 
 ### Só de escrever essas receitas já me deu água na boca 

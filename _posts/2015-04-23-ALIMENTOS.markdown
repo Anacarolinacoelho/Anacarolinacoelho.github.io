@@ -4,6 +4,7 @@ subtitle:
 image: "img/alim.jpg"
 ---
 ### Quero te contar algumas receitas vegetarianas que te farão até esquecer da carne.
+
 ### É possível comer muitas coisas gostosas sem colocar nenhum tipo de carne no prato.
 
 <div style = "text-align: justify;">
@@ -50,7 +51,7 @@ Modo de Preparo
 Pensando em praticidade na hora do almoço, uma salada de penne não seria nada mal. Em 30 minutos uma salada bem cremosa e saborosa pode ser preparada para a sua refeição.
 <div>
 
-
+![salada de penne](saladadepenne.jpg)
 
 
 ## Ingredientes <h5>

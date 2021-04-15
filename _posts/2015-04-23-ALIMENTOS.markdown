@@ -36,9 +36,9 @@ Para te ajudar a descobrir esses novos sabores, separei algumas receitas vegetar
 
 Modo de Preparo 
 
-1. Aqueça o caldo de legumes (ou de galinha ou de carne etc.) e coloque a carne de soja para hidratar por uns 20 a 30 minutos. Depois disso, esprema-a bem e reserve-a.
+Aqueça o caldo de legumes (ou de galinha ou de carne etc.) e coloque a carne de soja para hidratar por uns 20 a 30 minutos. Depois disso, esprema-a bem e reserve-a.
 
-2. Refogue a cebola e o alho no óleo. Acrescente os temperos, o extrato de tomate e deixe cozinhar em fogo baixo até ficar homogêneo. Depois disso, junte o champignon e vá despejando a mistura de amido de milho aos poucos, mexendo sempre para engrossar. Adicione a carne de soja hidratada, mexa bem e tire do fogo para incorporar o creme de leite.
+Refogue a cebola e o alho no óleo. Acrescente os temperos, o extrato de tomate e deixe cozinhar em fogo baixo até ficar homogêneo. Depois disso, junte o champignon e vá despejando a mistura de amido de milho aos poucos, mexendo sempre para engrossar. Adicione a carne de soja hidratada, mexa bem e tire do fogo para incorporar o creme de leite.
 
 * Sirva em seguida com arroz (na foto, integral) e batata frita, palha ou chips.
 

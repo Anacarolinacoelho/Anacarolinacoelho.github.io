@@ -99,13 +99,12 @@ Nossa lista de receitas não poderia deixar de ter tortas na seleção. Essa to
 
 Modo de preparo
 
-1. Deixe 1 xícara e 1/2 de chá de grão-de-bico de molho da noite para o dia e então cozinhe na panela de pressão por aproximadamente 30 minutos, a pele que envolve o grão de bico irá soltando aos poucos e deverá ser retirada.
+Deixe 1 xícara e 1/2 de chá de grão-de-bico de molho da noite para o dia e então cozinhe na panela de pressão por aproximadamente 30 minutos, a pele que envolve o grão de bico irá soltando aos poucos e deverá ser retirada.
 
-2. Em um processador, bata o grão-de-bico, as duas colheres de azeite de oliva extra virgem, uma colher de chá de flor-de-sal ou de sal marinho e espalhe na forma.
+Em um processador, bata o grão-de-bico, as duas colheres de azeite de oliva extra virgem, uma colher de chá de flor-de-sal ou de sal marinho e espalhe na forma.
 
-3.  Em um bowl, misture os dois ovos, as três claras, uma xícara de espinafre picado, uma xícara de alho-poró picado, uma cebola cortada em rodelas, uma colher de flor-de-sal, duas colheres de açúcar mascavo, pimenta do reino moída e espalhe sobre a massa que já esta na forma.
-
-4. Leve ao forno pré-aquecido a 200°C por 30 minutos. 
+Em um bowl, misture os dois ovos, as três claras, uma xícara de espinafre picado, uma xícara de alho-poró picado, uma cebola cortada em rodelas, uma colher de flor-de-sal, duas colheres de açúcar mascavo, pimenta do reino moída e espalhe sobre a massa que já esta na forma.
+ Leve ao forno pré-aquecido a 200°C por 30 minutos. 
 
 
 

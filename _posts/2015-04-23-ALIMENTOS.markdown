@@ -7,10 +7,10 @@ image: "img/alim.jpg"
 
 ### É possível comer muitas coisas gostosas sem colocar nenhum tipo de carne no prato.
 
-<div style = "text-align: justify;">
+
 Ao menos uma vez na semana você já experimentou tirar a carne do prato e optar por outro alimento? Este hábito tem sido incentivado por campanhas como a Segunda Sem Carne, que tem como objetivo mostrar que é possível ter refeições nutritivas e gostosas sem carne vermelha, frango ou peixe.
 Para te ajudar a descobrir esses novos sabores, separei algumas receitas vegetarianas para você nem sentir falta de carne. Use e abuse de ingredientes como soja, queijo, ricota, cogumelos, cereais, e confira pratos a base de legumes, além de risotos, sopas e muito mais. Veja abaixo a lista das opções e a lista dos ingredientes necessários.
-<div>
+
 
 
 ## 1. Estrogonofe de carne de soja 
@@ -44,20 +44,20 @@ Modo de Preparo
 
 
 
-## 2. Salada de Penne <h4>
+## 2. Salada de Penne 
 
 
-<div style = "text-align: justify;">
+
 Pensando em praticidade na hora do almoço, uma salada de penne não seria nada mal. Em 30 minutos uma salada bem cremosa e saborosa pode ser preparada para a sua refeição.
-<div>
+
 
 ![salada de penne](saladadepenne.jpg)
 
 
-## Ingredientes <h5>
+## Ingredientes 
 
 
-<div style = "text-align: justify;"> 
+ 
 * 1 caixa de macarrão penne de Milho e Quinoa Fit Food (250g)
 * 1/2 abacate
 * 1/2 xícara de azeite de oliva extra virgem
@@ -71,22 +71,22 @@ Pensando em praticidade na hora do almoço, uma salada de penne não seria nada 
 
 **hmmmmm delícia**
 
-<div>
+
 
 
 
 ### 3. Torta de alho poró, espinafre e cebola caramelizada <h6>
 
 
-<div style = "text-align: justify;"> 
+
 Nossa lista de receitas não poderia deixar de ter tortas na seleção. Essa torta de alho poró, espinafre e cebola caramelizada vai lhe conquistar, com certeza.
-<div> 
 
 
 
-### Ingredientes <h7>
 
-<div style = "text-align: justify;"> 
+### Ingredientes 
+
+
 * 1 1/2 xícara (chá) de grão-de-bico cozido
 * 2 colheres (sopa) de azeite de oliva extra virgem
 * 2 colheres (chá) de sal marinho ou flor-de-sal
@@ -108,7 +108,7 @@ Modo de preparo
 
 4. Leve ao forno pré-aquecido a 200°C por 30 minutos. 
 
-<div>
+
 
 
 **Só de escrever essas receitas já me deu água na boca**

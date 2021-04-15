@@ -1,15 +1,12 @@
 ---
-title:  "ONGs"
-subtitle:
-image: "img/ONGS2.jpg"
+title:  "Playlist"
+subtitle:"Uma parte de mim"
+image: "img/playlist.jpg"
 ---
 
 <div style = "text-align: justify;">
 
-Organização Regional de Combate ao Câncer (ORCCA) <br>
+Segue abaixo o link da minha playlist pessoal, sou uma pessoa bem eclética, gosto de músicas pelo o que me faz sentir.  <br>
 
-<a target = "_blank" href="http://www.orcca.org.br/"><h3 style = "color: #1099e8;">www.orcca.org.br</h3></a>
+<a target = "_blank" href="<iframe src="https://open.spotify.com/embed/playlist/36uYNX0Y4uSnUUkFkGJHrJ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>"><h3 style = "color: #1099e8;">https://open.spotify.com/playlist/36uYNX0Y4uSnUUkFkGJHrJ?si=6be333fecd664647</h3></a>
 
-Grupo de Apoio a Pessoas com Câncer (GAPC)<br>
-<a target = "_blank" href="https://www.gapc.org.br/"><h3 style = "color: #1099e8;">www.gapc.org.br</h3></a>
-</div>

@@ -81,7 +81,7 @@ Pensando em praticidade na hora do almoço, uma salada de penne não seria nada 
 
 Nossa lista de receitas não poderia deixar de ter tortas na seleção. Essa torta de alho poró, espinafre e cebola caramelizada vai lhe conquistar, com certeza.
 
-![torta](/torta.jpg)
+![torta](img/torta.jpg)
 
 
 ### Ingredientes 

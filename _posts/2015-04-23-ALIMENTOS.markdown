@@ -50,8 +50,7 @@ Refogue a cebola e o alho no óleo. Acrescente os temperos, o extrato de tomate 
 
 Pensando em praticidade na hora do almoço, uma salada de penne não seria nada mal. Em 30 minutos uma salada bem cremosa e saborosa pode ser preparada para a sua refeição.
 
-
-![salada de penne](C:Users\Fabia/Documents\Anacarolinacoelho.github.io\img\saladadepenne.jpg)
+![penne](img\saladadepenne.jpg)
 
 
 ## Ingredientes 
@@ -82,8 +81,6 @@ Pensando em praticidade na hora do almoço, uma salada de penne não seria nada 
 Nossa lista de receitas não poderia deixar de ter tortas na seleção. Essa torta de alho poró, espinafre e cebola caramelizada vai lhe conquistar, com certeza.
 
 ![torta](img\torta.jpeg)
-![Caption for the picture.](/path/to/torta.jpeg)
-![unchanged image](torta.jpeg)
 
 
 ### Ingredientes 

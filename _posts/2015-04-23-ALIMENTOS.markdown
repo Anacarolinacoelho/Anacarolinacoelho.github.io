@@ -51,7 +51,7 @@ Modo de Preparo
 Pensando em praticidade na hora do almoço, uma salada de penne não seria nada mal. Em 30 minutos uma salada bem cremosa e saborosa pode ser preparada para a sua refeição.
 
 
-![salada de penne](saladadepenne.jpg)
+![salada de penne](C:\Users\Fabia\Documents\Anacarolinacoelho.github.io\img\saladadepenne.jpg)
 
 
 ## Ingredientes 
@@ -81,7 +81,7 @@ Pensando em praticidade na hora do almoço, uma salada de penne não seria nada 
 
 Nossa lista de receitas não poderia deixar de ter tortas na seleção. Essa torta de alho poró, espinafre e cebola caramelizada vai lhe conquistar, com certeza.
 
-
+![torta](C:\Users\Fabia\Documents\Anacarolinacoelho.github.io\img\torta.jpg)
 
 
 ### Ingredientes 
